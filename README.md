@@ -3,7 +3,7 @@
 An Open Source Telegram Rename Bot
 
 ---
-Rename any Telegram Files with Permanent Thumbnail Support
+Rename any Telegram Files Made By Mm group
 
 * Added auto detect of files
 
@@ -26,7 +26,7 @@ python3 -m tobrot
 ```
 
 
-#### For Queries and support, contact [prgofficial](https://telegram.dog/prgofficial)
+#### For Queries and support, contact [mmmoviesgroup](https://t.me/filimsmovie)
 
 ## Credits, and Thanks to Beloved Developers ;
 
