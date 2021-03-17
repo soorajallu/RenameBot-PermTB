@@ -1,5 +1,5 @@
 class script(object):
-    START_TEXT = """ A Simple File Renamer Bot With Permanent Thumbnail support!💯
+    START_TEXT = """ A Simple File Renamer Bot Made for @filimsmovie !💯
 
 <b>Send me any Telegram file and choose appropriate option! </b>"""
 
@@ -13,8 +13,7 @@ class script(object):
     NO_THUMB = "No thumbnails found!"
     SAVED_RECVD_DOC_FILE = "File Downloaded Successfully 😎"
     CUSTOM_CAPTION_UL_FILE = " "
-    HELP_USER = """It's not that complicated😅
-    
+  
 1. Send me any Telegram File.
 2. Choose appropriate option."""
 
